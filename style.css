@@ -59,6 +59,10 @@
   border-radius: 4px;
  }
 
+ .botao:hover {
+  background-color: #fcc438;
+ }
+
  .div-sobre {
   display: flex;
   flex-direction: column;
